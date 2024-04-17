@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Tytul": "Władca Pierścieni: Drużyna Pierścienia",
+    "Autor": "J.R.R. Tolkien",
+    "RokWydania": 1954,
+    "Gatunek": "Fantasy"
+  },
+  {
+    "Id": 2,
+    "Tytul": "Harry Potter i Kamień Filozoficzny",
+    "Autor": "J.K. Rowling",
+    "RokWydania": 1997,
+    "Gatunek": "Fantasy"
+  },
+  {
+    "Id": 3,
+    "Tytul": "Zbrodnia i Kara",
+    "Autor": "Fiodor Dostojewski",
+    "RokWydania": 1866,
+    "Gatunek": "Klasyczna literatura"
+  },
+  {
+    "Id": 4,
+    "Tytul": "1984",
+    "Autor": "George Orwell",
+    "RokWydania": 1949,
+    "Gatunek": "Dystopia"
+  },
+  {
+    "Id": 5,
+    "Tytul": "To",
+    "Autor": "Stephen King",
+    "RokWydania": 1986,
+    "Gatunek": "Horror"
+  },
+  {
+    "Id": 6,
+    "Tytul": "Wzgórze psów",
+    "Autor": "Stephen King",
+    "RokWydania": 1977,
+    "Gatunek": "Horror"
+  },
+  {
+    "Id": 7,
+    "Tytul": "Mistrz i Małgorzata",
+    "Autor": "Michaił Bułhakow",
+    "RokWydania": 1966,
+    "Gatunek": "Klasyczna literatura"
+  },
+  {
+    "Id": 8,
+    "Tytul": "Duma i uprzedzenie",
+    "Autor": "Jane Austen",
+    "RokWydania": 1813,
+    "Gatunek": "Romans"
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.csproj.AssemblyReference.cache
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.AssemblyInfoInputs.cache
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.AssemblyInfo.cs
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.csproj.CoreCompileInputs.cache
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\biblioteka_ksiazki.exe
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\biblioteka_ksiazki.deps.json
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\biblioteka_ksiazki.runtimeconfig.json
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\biblioteka_ksiazki.dll
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\biblioteka_ksiazki.pdb
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.csproj.CopyComplete
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.dll
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\refint\biblioteka_ksiazki.dll
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.pdb
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\biblioteka_ksiazki.genruntimeconfig.cache
+C:\Users\szymon\source\repos\biblioteka_ksiazki\biblioteka_ksiazki\obj\Debug\net7.0\ref\biblioteka_ksiazki.dll
